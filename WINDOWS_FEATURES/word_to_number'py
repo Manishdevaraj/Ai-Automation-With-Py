@@ -1,0 +1,5 @@
+from word2number import w2n
+
+text_number = "two"
+number = w2n.word_to_num(text_number)
+print(number)  # This will print the integer 522a
